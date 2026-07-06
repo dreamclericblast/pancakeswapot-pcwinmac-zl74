@@ -1,4 +1,4 @@
-# 
+# VIP pancakeswap trading bot scripts for Mac OS | Professional pancakeswap trading bot scripts for PC Windows. Featuring decentralized exchange api and momentum analysis — optimized for maximum performance.
 
 
 
